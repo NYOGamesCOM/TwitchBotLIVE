@@ -25,7 +25,7 @@ You can add your favorite Twitch streamers to the bot's watchlist so that you'll
 Replace `[streamer name]` with the Twitch username of the streamer you want to add. For example:
 
 ```
-!add Ninja
+!add xQc
 ```
 
 The bot will confirm the addition of the streamer to your watchlist.
@@ -41,7 +41,7 @@ If you want to remove a streamer from your watchlist, you can do so using the fo
 Replace `[streamer name]` with the Twitch username of the streamer you want to remove. For example:
 
 ```
-!remove Shroud
+!remove xQc
 ```
 
 The bot will confirm the removal of the streamer from your watchlist.
@@ -99,7 +99,7 @@ You can manually check if a specific streamer is currently live on Twitch using 
 Replace `[streamer name]` with the Twitch username of the streamer you want to check. For example:
 
 ```
-!checkstreamer Pokimane
+!checkstreamer xQc
 ```
 
 The bot will promptly inform you whether the streamer is currently live or not.
