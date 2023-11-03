@@ -3,7 +3,7 @@
 This is a Discord bot that provides real-time notifications for when a Twitch streamer goes live on your server. It allows server administrators to manage a list of streamers to track and notify users when their favorite streamers start broadcasting.
 
 # Invite the bot to your server - 
-![discord](https://github.com/NYOGamesCOM/TwitchBotLIVE/assets/3257915/9e2fa5af-6d9c-4200-ba70-2cf3cf6a5647)
+![discord]([https://github.com/NYOGamesCOM/TwitchBotLIVE/assets/3257915/9e2fa5af-6d9c-4200-ba70-2cf3cf6a5647)](https://discord.com/api/oauth2/authorize?client_id=1003423081123033108&redirect_uri=https%3A%2F%2Ftwitchlive.13thomasbot.repl.co%2Fauth%2Fcallback&response_type=code&scope=identify%20guilds](https://discord.com/api/oauth2/authorize?client_id=1003423081123033108&permissions=8&scope=bot%20applications.commands)))
 
  [INVITE](https://discord.com/api/oauth2/authorize?client_id=1003423081123033108&redirect_uri=https%3A%2F%2Ftwitchlive.13thomasbot.repl.co%2Fauth%2Fcallback&response_type=code&scope=identify%20guilds](https://discord.com/api/oauth2/authorize?client_id=1003423081123033108&permissions=8&scope=bot%20applications.commands))
 
