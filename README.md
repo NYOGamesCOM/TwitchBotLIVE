@@ -69,14 +69,14 @@ To set up the bot on your server, follow these steps:
    Here's an example of how your `.env` file might look:
 
    ```shell
-   DISCORD_BOT_TOKEN=your_discord_bot_token
-   TWITCH_CLIENT_ID=your_twitch_client_id
-   TWITCH_TOKEN_ID=your_twitch_token_id
-   DISCORD_SECRET_ID=your_discord_oauth2_secret_id
-   DISCORD_CLIENT_ID=your_discord_client_id
-   LOG_CHANNEL_ID=your_log_channel_id
-   CHECK_INTERVAL=60000
-   CHANNEL_TYPE=text
+   - `DISCORD_BOT_TOKEN`: Your Discord bot token.
+   - `TWITCH_CLIENT_ID`: Your Twitch Client ID.
+   - `TWITCH_TOKEN_ID`: Your Twitch Token ID.
+   - `DISCORD_SECRET_ID`: Discord OAuth2 Secret ID for session management.
+   - `DISCORD_CLIENT_ID`: Discord Client ID.
+   - `LOG_CHANNEL_ID`: The default log channel ID for your bot.
+   - `CHECK_INTERVAL`: The interval (in milliseconds) at which the bot checks the streamer status.
+   - `CHANNEL_TYPE`: The type of Discord channel you want to use for notifications (e.g., 'text').
    ```
 
 4. **Start the Application:** Launch the bot by running the following command:
